@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-MQ3UT9Q.JCGR_STAGING_10076"
+  DTS:DTSID="{0DD871F3-E89B-450A-94D5-5BD09090A6CF}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-MQ3UT9Q;Initial Catalog=JCGR_STAGING_10076;Integrated Security=True;Encrypt=False;Application Name=&quot;SSIS-Ventas Datos JCGR-{0DD871F3-E89B-450A-94D5-5BD09090A6CF}DESKTOP-MQ3UT9Q.JCGR_STAGING_10076&quot;;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
